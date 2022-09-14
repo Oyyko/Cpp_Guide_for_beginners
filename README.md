@@ -80,3 +80,13 @@ https://www.chromium.org/developers/coding-style/
 https://google.github.io/styleguide/cppguide.html
 
 我比较喜欢Chromium的
+
+### CMake 入门
+
+[More Modern CMake](https://hsf-training.github.io/hsf-training-cmake-webpage/aio/index.html)
+
+[moderncmake](https://github.com/toeb/moderncmake)
+
+[Modern CMake 简介](https://zhuanlan.zhihu.com/p/76975231)
+
+[awesome-cmake](https://github.com/onqtam/awesome-cmake)
